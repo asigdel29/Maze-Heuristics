@@ -1,0 +1,3 @@
+Improvements:
+Prefer a movement which results in moving generally in the direction of the end of the maze.
+Prefer short hallways to long ones
